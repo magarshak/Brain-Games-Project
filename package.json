@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "Project Brain Games",
   "type": "module",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "D.Magarshak",
   "license": "ISC",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "dependencies": {
     "readline-sync": "^1.4.10"
