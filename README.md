@@ -5,3 +5,11 @@
 
 ## About project
 __Brain Games__ - a set of 5 console games that will require some brainstorming. Each game asks 3 questions that the player needs to answer. 3 correct answers complete the game successfully. An incorrect answer ends the game.
+
+## How to install
+```sh
+$ git clone git@github.com:magarshak/frontend-project-44.git
+$ cd frontend-project-44/
+$ make install
+$ npm link
+```
