@@ -20,3 +20,5 @@ Start the game:
 ``
 $ brain-even
 ``
+
+[![asciicast](https://asciinema.org/a/2QiDnncszr6KkKknDgXK4IkW4.svg)](https://asciinema.org/a/2QiDnncszr6KkKknDgXK4IkW4)
