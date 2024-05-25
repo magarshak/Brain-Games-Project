@@ -31,4 +31,4 @@ Start the game:
 $ brain-calc
 ``
 
-[![asciicast](https://asciinema.org/a/lvDbMWxXTN5LnguZ66XDODhd0.svg)](https://asciinema.org/a/lvDbMWxXTN5LnguZ66XDODhd0)
+[![asciicast](https://asciinema.org/a/zSnMJwGPPWDgYWolfmcFrzZAg.svg)](https://asciinema.org/a/zSnMJwGPPWDgYWolfmcFrzZAg)
