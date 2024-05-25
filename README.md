@@ -14,7 +14,7 @@ $ make install
 $ npm link
 ```
 ## Game 1 - Brain Even
-The "Parity Check" game. The essence of the game is as follows: a random number is shown to the user. And he needs to answer 'yes' if the number is even, or 'no' if it is odd.
+The parity check game. The essence of the game is as follows: a random number is shown to the user. And he needs to answer 'yes' if the number is even, or 'no' if it is odd.
 
 Start the game:
 ``
@@ -23,4 +23,12 @@ $ brain-even
 
 [![asciicast](https://asciinema.org/a/2QiDnncszr6KkKknDgXK4IkW4.svg)](https://asciinema.org/a/2QiDnncszr6KkKknDgXK4IkW4)
 
-## Game 2 - Brain Calculate
+## Game 2 - Brain Calc
+The Calculator game. The essence of the game is as follows: the user is shown a random mathematical expression, for example 35 + 16, which needs to be calculated and written down the correct answer.
+
+Start the game:
+``
+$ brain-calc
+``
+
+[![asciicast](https://asciinema.org/a/K65rv9m8Zjii1ZMc6fwmKATf9.svg)](https://asciinema.org/a/K65rv9m8Zjii1ZMc6fwmKATf9)
