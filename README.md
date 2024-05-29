@@ -14,7 +14,7 @@ $ make install
 $ npm link
 ```
 ## Game 1 - Brain Even
-The parity check game. The essence of the game is as follows: a random number is shown to the user. And he needs to answer 'yes' if the number is even, or 'no' if it is odd.
+The parity check game. The essence of the game is as follows: a random number is shown to the player. And he needs to answer 'yes' if the number is even, or 'no' if it is odd.
 
 Start the game:
 ``
@@ -24,7 +24,7 @@ $ brain-even
 [![asciicast](https://asciinema.org/a/2QiDnncszr6KkKknDgXK4IkW4.svg)](https://asciinema.org/a/2QiDnncszr6KkKknDgXK4IkW4)
 
 ## Game 2 - Brain Calc
-The Calculator game. The essence of the game is as follows: the user is shown a random mathematical expression, for example 35 + 16, which needs to be calculated and written down the correct answer.
+The Calculator game. The essence of the game is as follows: the player is shown a random mathematical expression, for example 35 + 16, which needs to be calculated and written down the correct answer.
 
 Start the game:
 ``
@@ -32,3 +32,13 @@ $ brain-calc
 ``
 
 [![asciicast](https://asciinema.org/a/SMuOYarwCY59DWdbXegtEYIC0.svg)](https://asciinema.org/a/SMuOYarwCY59DWdbXegtEYIC0)
+
+## Game 3 - Brain GSD
+The greatest common divisor game. The essence of the game is as follows: the player is shown two random numbers, for example, 25 50. The player must calculate and enter the largest common divisor of these numbers.
+
+Start the game:
+``
+$ brain-gsd
+``
+
+[![asciicast](https://asciinema.org/a/5uQocTJGawNnJ7VYRWbvCrOFy.svg)](https://asciinema.org/a/5uQocTJGawNnJ7VYRWbvCrOFy)
