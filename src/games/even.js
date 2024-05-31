@@ -19,6 +19,4 @@ const generateRound = () => {
   return [question, correctAnswer];
 };
 
-//
-const startEvenGame = () => runLogic(generateRound, gameTask);
-export default startEvenGame;
+export default () => runLogic(generateRound, gameTask);
