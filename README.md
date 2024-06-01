@@ -42,3 +42,13 @@ $ brain-gsd
 ``
 
 [![asciicast](https://asciinema.org/a/5uQocTJGawNnJ7VYRWbvCrOFy.svg)](https://asciinema.org/a/5uQocTJGawNnJ7VYRWbvCrOFy)
+
+## Game 4 - Brain Progression
+The player is shown a series of numbers forming an arithmetic progression, replacing any of the numbers with two dots. The player must determine this number.
+
+Start the game:
+``
+$ brain-progression
+``
+
+[![asciicast](https://asciinema.org/a/pdHmFyMFwtJdyJtELhWr6T7NF.svg)](https://asciinema.org/a/pdHmFyMFwtJdyJtELhWr6T7NF)
