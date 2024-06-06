@@ -14,7 +14,7 @@ $ make install
 $ npm link
 ```
 ## Game 1 - Brain Even
-The parity check game. The essence of the game is as follows: a random number is shown to the player. And he needs to answer 'yes' if the number is even, or 'no' if it is odd.
+The parity check game. The essence of the game is as follows: a random number is shown to the player. He needs to answer 'yes' if the number is even, or 'no' if it's odd.
 
 Start the game:
 ``
@@ -52,3 +52,13 @@ $ brain-progression
 ``
 
 [![asciicast](https://asciinema.org/a/pdHmFyMFwtJdyJtELhWr6T7NF.svg)](https://asciinema.org/a/pdHmFyMFwtJdyJtELhWr6T7NF)
+
+## Game 5 - Brain Prime
+The prime check game. Game task: a random number is shown to the player. He needs to answer 'yes' if the number is prime, or 'no' if it's not.
+
+Start the game:
+``
+$ brain-prime
+``
+
+[![asciicast](https://asciinema.org/a/N99SD8NPmI7UlJjJz11mbv9yb.svg)](https://asciinema.org/a/N99SD8NPmI7UlJjJz11mbv9yb)
