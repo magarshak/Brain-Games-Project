@@ -20,7 +20,7 @@ brain-calc:
 	node bin/brain-calc.js
 
 brain-gsd:
-	node bin/brain-gsd.js
+	node bin/brain-gcd.js
 
 brain-progression:
 	node bin/brain-progression.js
