@@ -7,6 +7,11 @@
 __Brain Games__ - a set of 5 console games that will require some brainstorming. Each game asks 3 questions. The player must give the correct answer to 3 questions in a row. An incorrect answer (or any incorrect input) ends the game.
 
 ## How to install
+Before you start, make sure that:
+1. You are using a development-friendly operating system (e.g. Ubuntu, macOS). For Windows owners, I recommend that you set up a Windows Subsystem for Linux (WSL).
+2. You know how to start a terminal and can execute commands in it.
+
+If you realized what is written above, you need to execute the following commands:
 ```sh
 $ git clone git@github.com:magarshak/frontend-project-44.git
 $ cd frontend-project-44/
@@ -33,12 +38,12 @@ $ brain-calc
 
 [![asciicast](https://asciinema.org/a/SMuOYarwCY59DWdbXegtEYIC0.svg)](https://asciinema.org/a/SMuOYarwCY59DWdbXegtEYIC0)
 
-## Game 3 - Brain GSD
+## Game 3 - Brain GСD
 The greatest common divisor game. The essence of the game is as follows: the player is shown two random numbers, for example, 25 50. The player must calculate and enter the largest common divisor of these numbers.
 
 Start the game:
 ``
-$ brain-gsd
+$ brain-gсd
 ``
 
 [![asciicast](https://asciinema.org/a/5uQocTJGawNnJ7VYRWbvCrOFy.svg)](https://asciinema.org/a/5uQocTJGawNnJ7VYRWbvCrOFy)
@@ -62,3 +67,5 @@ $ brain-prime
 ``
 
 [![asciicast](https://asciinema.org/a/N99SD8NPmI7UlJjJz11mbv9yb.svg)](https://asciinema.org/a/N99SD8NPmI7UlJjJz11mbv9yb)
+##
+Thank you for your attention!
