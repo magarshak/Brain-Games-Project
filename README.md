@@ -11,7 +11,7 @@ Before you start, make sure that:
 1. You are using a development-friendly operating system (e.g. Ubuntu, macOS). For Windows owners, I recommend that you set up a Windows Subsystem for Linux (WSL).
 2. You know how to start a terminal and can execute commands in it.
 
-If you realized what is written above, you need to execute the following commands:
+If you understand what is written above, you need to execute the following commands:
 ```sh
 $ git clone git@github.com:magarshak/frontend-project-44.git
 $ cd frontend-project-44/
