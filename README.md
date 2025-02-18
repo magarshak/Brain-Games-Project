@@ -1,7 +1,7 @@
 # Brain Games Project
 
 ### Tests and code analysis:
-[![Actions Status](https://github.com/magarshak/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/magarshak/Brain-Games-Project/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/4adba62c404a5d10651a/maintainability)](https://codeclimate.com/github/magarshak/Brain-Games-Project/maintainability)
+[![Actions Status](https://github.com/magarshak/Brain-Games-Project/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/magarshak/Brain-Games-Project/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/4adba62c404a5d10651a/maintainability)](https://codeclimate.com/github/magarshak/Brain-Games-Project/maintainability)
 
 ## About project
 __Brain Games__ - a set of 5 console games that will require some brainstorming. Each game asks 3 questions. The player must give the correct answer to 3 questions in a row. An incorrect answer (or any incorrect input) ends the game.
