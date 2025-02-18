@@ -1,7 +1,7 @@
 # Brain Games Project
 
 ### Tests and code analysis:
-[![Actions Status](https://github.com/magarshak/Brain-Games-Project/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/magarshak/Brain-Games-Project/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/4adba62c404a5d10651a/maintainability)](https://codeclimate.com/github/magarshak/Brain-Games-Project/maintainability)
+[![Actions Status](https://github.com/magarshak/brain-games-project/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/magarshak/brain-games-project/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/4adba62c404a5d10651a/maintainability)](https://codeclimate.com/github/magarshak/brain-games-project/maintainability)
 
 ## About project
 __Brain Games__ - a set of 5 console games that will require some brainstorming. Each game asks 3 questions. The player must give the correct answer to 3 questions in a row. An incorrect answer (or any incorrect input) ends the game.
@@ -13,8 +13,8 @@ Before you start, make sure that:
 
 If you understand what is written above, you need to execute the following commands:
 ```sh
-$ git clone git@github.com:magarshak/Brain-Games-Project.git
-$ cd Brain-Games-Project/
+$ git clone git@github.com:magarshak/brain-games-project.git
+$ cd brain-games-project/
 $ make install
 $ npm link
 ```
