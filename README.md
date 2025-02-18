@@ -28,6 +28,8 @@ $ brain-even
 
 [![asciicast](https://asciinema.org/a/2QiDnncszr6KkKknDgXK4IkW4.svg)](https://asciinema.org/a/2QiDnncszr6KkKknDgXK4IkW4)
 
+> <sup>Note: in these and subsequent terminal session entries, you can see that the project directory is named “.../frontend-project-44”. This is the old name of my project. In your case, the directory after cloning the repository will be named “.../brain-games-project”.</sup>
+
 ## Game 2 - Brain Calc
 The Calculator game. The essence of the game is as follows: the player is shown a random mathematical expression, for example 35 + 16, which needs to be calculated and written down the correct answer.
 
