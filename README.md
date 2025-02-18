@@ -68,4 +68,4 @@ $ brain-prime
 
 [![asciicast](https://asciinema.org/a/N99SD8NPmI7UlJjJz11mbv9yb.svg)](https://asciinema.org/a/N99SD8NPmI7UlJjJz11mbv9yb)
 ##
-Thank you for your attention!
+Thanks for your attention!
